@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CCM3ModelStoreContainer" CdmEntityContainer="CCM3Entities">
+    <FunctionImportMapping FunctionImportName="Destraba_CCM" FunctionName="CCM3Model.Store.Destraba_CCM">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="CCM3Model.Destraba_CCM_Result">
+          <ScalarProperty Name="record_id" ColumnName="record_id" />
+          <ScalarProperty Name="press" ColumnName="press" />
+          <ScalarProperty Name="item0" ColumnName="item0" />
+          <ScalarProperty Name="item1" ColumnName="item1" />
+          <ScalarProperty Name="item2" ColumnName="item2" />
+          <ScalarProperty Name="item3" ColumnName="item3" />
+          <ScalarProperty Name="item4" ColumnName="item4" />
+          <ScalarProperty Name="item5" ColumnName="item5" />
+          <ScalarProperty Name="item6" ColumnName="item6" />
+          <ScalarProperty Name="item7" ColumnName="item7" />
+          <ScalarProperty Name="item8" ColumnName="item8" />
+          <ScalarProperty Name="item9" ColumnName="item9" />
+          <ScalarProperty Name="item10" ColumnName="item10" />
+          <ScalarProperty Name="item11" ColumnName="item11" />
+          <ScalarProperty Name="item12" ColumnName="item12" />
+          <ScalarProperty Name="item13" ColumnName="item13" />
+          <ScalarProperty Name="item14" ColumnName="item14" />
+          <ScalarProperty Name="item15" ColumnName="item15" />
+          <ScalarProperty Name="packet" ColumnName="packet" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="attempts" ColumnName="attempts" />
+          <ScalarProperty Name="insert_date" ColumnName="insert_date" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

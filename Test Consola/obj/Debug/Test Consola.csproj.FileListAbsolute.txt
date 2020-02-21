@@ -1,0 +1,20 @@
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\bin\Debug\Test Consola.exe.config
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\bin\Debug\Test Consola.exe
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\bin\Debug\Test Consola.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\bin\Debug\Controladores.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\bin\Debug\Entidades.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\bin\Debug\Modelo.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\bin\Debug\EntityFramework.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\bin\Debug\Controladores.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\bin\Debug\Entidades.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\bin\Debug\Modelo.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\bin\Debug\Modelo.dll.config
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\bin\Debug\EntityFramework.xml
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\obj\Debug\Test Consola.csprojAssemblyReference.cache
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\obj\Debug\Test Consola.csproj.CopyComplete
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\obj\Debug\Test Consola.exe
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\obj\Debug\Test Consola.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\bin\Debug\Controladores.dll.config
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\bin\Debug\Entidades.dll.config
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Test Consola\bin\Debug\EntityFramework.SqlServer.xml

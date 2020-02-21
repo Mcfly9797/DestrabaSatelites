@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="CCM1Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <Function Name="Destraba_CCM" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <EntityContainer Name="CCM1ModelStoreContainer" />
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="CCM1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="CCM1Entities" annotation:LazyLoadingEnabled="true" >
+          <FunctionImport Name="Destraba_CCM" ReturnType="Collection(CCM1Model.Destraba_CCM_Result)" />
+        </EntityContainer>
+        <ComplexType Name="Destraba_CCM_Result">
+          <Property Type="Int32" Name="record_id" Nullable="false" />
+          <Property Type="String" Name="press" Nullable="false" MaxLength="3" />
+          <Property Type="Int16" Name="item0" Nullable="true" />
+          <Property Type="Int16" Name="item1" Nullable="true" />
+          <Property Type="Int16" Name="item2" Nullable="true" />
+          <Property Type="Int16" Name="item3" Nullable="true" />
+          <Property Type="Int16" Name="item4" Nullable="true" />
+          <Property Type="Int16" Name="item5" Nullable="true" />
+          <Property Type="Int16" Name="item6" Nullable="true" />
+          <Property Type="Int16" Name="item7" Nullable="true" />
+          <Property Type="Int16" Name="item8" Nullable="true" />
+          <Property Type="Int16" Name="item9" Nullable="true" />
+          <Property Type="Int16" Name="item10" Nullable="true" />
+          <Property Type="Int16" Name="item11" Nullable="true" />
+          <Property Type="Int16" Name="item12" Nullable="true" />
+          <Property Type="Int16" Name="item13" Nullable="true" />
+          <Property Type="Int16" Name="item14" Nullable="true" />
+          <Property Type="Int16" Name="item15" Nullable="true" />
+          <Property Type="Int16" Name="packet" Nullable="true" />
+          <Property Type="Byte" Name="status" Nullable="false" />
+          <Property Type="Byte" Name="attempts" Nullable="false" />
+          <Property Type="DateTime" Name="insert_date" Nullable="true" Precision="16" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="CCM1ModelStoreContainer" CdmEntityContainer="CCM1Entities" >
+          <FunctionImportMapping FunctionImportName="Destraba_CCM" FunctionName="CCM1Model.Store.Destraba_CCM">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="CCM1Model.Destraba_CCM_Result">
+                <ScalarProperty Name="record_id" ColumnName="record_id" />
+                <ScalarProperty Name="press" ColumnName="press" />
+                <ScalarProperty Name="item0" ColumnName="item0" />
+                <ScalarProperty Name="item1" ColumnName="item1" />
+                <ScalarProperty Name="item2" ColumnName="item2" />
+                <ScalarProperty Name="item3" ColumnName="item3" />
+                <ScalarProperty Name="item4" ColumnName="item4" />
+                <ScalarProperty Name="item5" ColumnName="item5" />
+                <ScalarProperty Name="item6" ColumnName="item6" />
+                <ScalarProperty Name="item7" ColumnName="item7" />
+                <ScalarProperty Name="item8" ColumnName="item8" />
+                <ScalarProperty Name="item9" ColumnName="item9" />
+                <ScalarProperty Name="item10" ColumnName="item10" />
+                <ScalarProperty Name="item11" ColumnName="item11" />
+                <ScalarProperty Name="item12" ColumnName="item12" />
+                <ScalarProperty Name="item13" ColumnName="item13" />
+                <ScalarProperty Name="item14" ColumnName="item14" />
+                <ScalarProperty Name="item15" ColumnName="item15" />
+                <ScalarProperty Name="packet" ColumnName="packet" />
+                <ScalarProperty Name="status" ColumnName="status" />
+                <ScalarProperty Name="attempts" ColumnName="attempts" />
+                <ScalarProperty Name="insert_date" ColumnName="insert_date" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

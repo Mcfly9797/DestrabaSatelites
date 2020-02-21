@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CCM1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="CCM1Entities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="Destraba_CCM" ReturnType="Collection(CCM1Model.Destraba_CCM_Result)" />
+  </EntityContainer>
+  <ComplexType Name="Destraba_CCM_Result">
+    <Property Type="Int32" Name="record_id" Nullable="false" />
+    <Property Type="String" Name="press" Nullable="false" MaxLength="3" />
+    <Property Type="Int16" Name="item0" Nullable="true" />
+    <Property Type="Int16" Name="item1" Nullable="true" />
+    <Property Type="Int16" Name="item2" Nullable="true" />
+    <Property Type="Int16" Name="item3" Nullable="true" />
+    <Property Type="Int16" Name="item4" Nullable="true" />
+    <Property Type="Int16" Name="item5" Nullable="true" />
+    <Property Type="Int16" Name="item6" Nullable="true" />
+    <Property Type="Int16" Name="item7" Nullable="true" />
+    <Property Type="Int16" Name="item8" Nullable="true" />
+    <Property Type="Int16" Name="item9" Nullable="true" />
+    <Property Type="Int16" Name="item10" Nullable="true" />
+    <Property Type="Int16" Name="item11" Nullable="true" />
+    <Property Type="Int16" Name="item12" Nullable="true" />
+    <Property Type="Int16" Name="item13" Nullable="true" />
+    <Property Type="Int16" Name="item14" Nullable="true" />
+    <Property Type="Int16" Name="item15" Nullable="true" />
+    <Property Type="Int16" Name="packet" Nullable="true" />
+    <Property Type="Byte" Name="status" Nullable="false" />
+    <Property Type="Byte" Name="attempts" Nullable="false" />
+    <Property Type="DateTime" Name="insert_date" Nullable="true" Precision="16" />
+  </ComplexType>
+</Schema>
