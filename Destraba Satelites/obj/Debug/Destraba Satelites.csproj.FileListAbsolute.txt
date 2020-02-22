@@ -44,3 +44,31 @@ C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba s
 C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Destraba Satelites\obj\Debug\Destraba Satelites.pdb
 C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Destraba Satelites\bin\Debug\Controladores.dll.config
 C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Destraba Satelites\bin\Debug\Entidades.dll.config
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\Destraba Satelites.exe.config
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\Destraba Satelites.exe
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\Destraba Satelites.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\Controladores.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\Entidades.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\EntityFramework.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\Modelo.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\Controladores.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\Controladores.dll.config
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\Entidades.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\Entidades.dll.config
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\Modelo.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\Modelo.dll.config
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\EntityFramework.xml
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\obj\Debug\Destraba Satelites.csprojAssemblyReference.cache
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\obj\Debug\MainWindow.g.cs
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\obj\Debug\App.g.cs
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\obj\Debug\Destraba Satelites_MarkupCompile.cache
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\obj\Debug\Destraba Satelites_MarkupCompile.lref
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\obj\Debug\MainWindow.baml
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\obj\Debug\Destraba Satelites.g.resources
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\obj\Debug\Destraba_Satelites.Properties.Resources.resources
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\obj\Debug\Destraba Satelites.csproj.GenerateResource.cache
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\obj\Debug\Destraba Satelites.csproj.CopyComplete
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\obj\Debug\Destraba Satelites.exe
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\obj\Debug\Destraba Satelites.pdb

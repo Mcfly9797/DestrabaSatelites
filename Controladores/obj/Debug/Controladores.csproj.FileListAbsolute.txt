@@ -15,3 +15,20 @@ C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba s
 C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Controladores\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Controladores\bin\Debug\Entidades.dll.config
 C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Controladores\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Controladores\bin\Debug\Controladores.dll.config
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Controladores\bin\Debug\Controladores.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Controladores\bin\Debug\Controladores.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Controladores\bin\Debug\Entidades.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Controladores\bin\Debug\EntityFramework.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Controladores\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Controladores\bin\Debug\Modelo.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Controladores\bin\Debug\Entidades.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Controladores\bin\Debug\Entidades.dll.config
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Controladores\bin\Debug\Modelo.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Controladores\bin\Debug\Modelo.dll.config
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Controladores\bin\Debug\EntityFramework.xml
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Controladores\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Controladores\obj\Debug\Controladores.csprojAssemblyReference.cache
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Controladores\obj\Debug\Controladores.csproj.CopyComplete
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Controladores\obj\Debug\Controladores.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Controladores\obj\Debug\Controladores.pdb

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Destraba_Satelites"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="547.5" Width="1032.5">
     <Grid ShowGridLines="True">
         <!--Uso el showgrilines para ver los bordes-->
         <Grid.ColumnDefinitions>
@@ -18,10 +18,41 @@
             <RowDefinition Height="141*"></RowDefinition>
         </Grid.RowDefinitions>
 
-        <Button Grid.Column="0" Grid.Row="0" Margin="93,52,493,156" Click="Button_Click_Sat1">Destrabar Satelite 1</Button>
-        <Button Grid.Column="0" Grid.Row="0" Margin="502,52,84,156" Click="Button_Click_Sat2">Destrabar Satelite 2</Button>
-        <Button Grid.Column="0" Grid.Row="0" Margin="93,174,493,34" Click="Button_Click_Sat3">Destrabar Satelite 3</Button>
-        <Button Grid.Column="0" Grid.Row="0" Margin="502,174,84,34" Click="Button_Click_Sat4">Destrabar Satelite 4</Button>
-        <Label Name="lblLog"  Content="{Binding ViewableMessage }"  HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="1" VerticalAlignment="Top" Height="121" Width="772"/>
+        <Button Grid.Column="0" Grid.Row="0" Margin="93,52,582,174" Click="Button_Click_Sat1">Destrabar Satelite 1</Button>
+        <Button Grid.Column="0" Grid.Row="0" Margin="544,52,107,174" Click="Button_Click_Sat2">Destrabar Satelite 2</Button>
+        <Button Grid.Column="0" Grid.Row="0" Margin="93,197,582,29" Click="Button_Click_Sat3">Destrabar Satelite 3</Button>
+        <Button Grid.Column="0" Grid.Row="0" Margin="544,197,107,29" Click="Button_Click_Sat4">Destrabar Satelite 4</Button>
+
+
+
+        <DataGrid x:Name="grdDatos" AutoGenerateColumns="True" ItemsSource="{Binding YourList}" Margin="10" Grid.Row="1">
+            <DataGrid.Columns>
+                <!--<DataGridTextColumn Header="Record_id" Binding="{Binding [0]}" />
+                <DataGridTextColumn Header="Press" Binding="{Binding [1]}" />
+                <DataGridTextColumn Header="Item0" Binding="{Binding [2]}" />
+                <DataGridTextColumn Header="Item1" Binding="{Binding [3]}" />
+                <DataGridTextColumn Header="Item2" Binding="{Binding [4]}" />
+                <DataGridTextColumn Header="Item3" Binding="{Binding [5]}" />
+                <DataGridTextColumn Header="Item4" Binding="{Binding [6]}" />
+                <DataGridTextColumn Header="Item5" Binding="{Binding [7]}" />
+                <DataGridTextColumn Header="Item6" Binding="{Binding [8]}" />
+                <DataGridTextColumn Header="Item7" Binding="{Binding [9]}" />
+                <DataGridTextColumn Header="Item8" Binding="{Binding [10]}" />
+                <DataGridTextColumn Header="Item9" Binding="{Binding [11]}" />
+                <DataGridTextColumn Header="Item10" Binding="{Binding [12]}" />
+                <DataGridTextColumn Header="Item11" Binding="{Binding [13]}" />
+                <DataGridTextColumn Header="Item12" Binding="{Binding [14]}" />
+                <DataGridTextColumn Header="Item13" Binding="{Binding [15]}" />
+                <DataGridTextColumn Header="Item14" Binding="{Binding [16]}" />
+                <DataGridTextColumn Header="Item15" Binding="{Binding [17]}" />
+                <DataGridTextColumn Header="Packet" Binding="{Binding [18]}" />
+                <DataGridTextColumn Header="Status" Binding="{Binding [19]}" />
+                <DataGridTextColumn Header="Attempts" Binding="{Binding [20]}" />
+                <DataGridTextColumn Header="Insert_date" Binding="{Binding [21]}" />-->
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+        <!--<Label Name="lblLog"  Content="{Binding ViewableMessage }"  HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="1" VerticalAlignment="Top" Height="121" Width="772"/>-->
     </Grid>
 </Window>

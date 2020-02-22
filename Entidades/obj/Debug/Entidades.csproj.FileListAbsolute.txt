@@ -9,3 +9,14 @@ C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba s
 C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Entidades\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Entidades\obj\Debug\Entidades.csproj.CopyComplete
 C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\Programa Destraba satelites\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Entidades\bin\Debug\Entidades.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Entidades\bin\Debug\Entidades.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Entidades\bin\Debug\EntityFramework.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Entidades\bin\Debug\EntityFramework.xml
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Entidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Entidades\obj\Debug\Entidades.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Entidades\obj\Debug\Entidades.pdb
