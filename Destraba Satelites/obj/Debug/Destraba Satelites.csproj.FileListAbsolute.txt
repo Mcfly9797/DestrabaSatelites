@@ -72,3 +72,9 @@ C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\D
 C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\obj\Debug\Destraba Satelites.csproj.CopyComplete
 C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\obj\Debug\Destraba Satelites.exe
 C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\obj\Debug\Destraba Satelites.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\MaterialDesignColors.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\MaterialDesignColors.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites\obj\Debug\App.baml

@@ -22,9 +22,9 @@ namespace Test_Consola
             Log oLog = new Log(@".\");
             oLog.Add("Prueba");
 
+            bool flagError = false;
 
-
-            new DestrabarPrensa().DestraSatTraerLogs(1);
+            new DestrabarPrensa().DestraSatTraerLogs(1, ref flagError );
 
             Console.Write("Press <Enter> to exit... ");
             while (Console.ReadKey().Key != ConsoleKey.Enter) { }

@@ -1,0 +1,34 @@
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\obj\Debug\Destraba Satelites Material Design.csprojAssemblyReference.cache
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\obj\Debug\MainWindow.g.cs
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\obj\Debug\App.g.cs
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\obj\Debug\MainWindow.baml
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\obj\Debug\Destraba Satelites Material Design.csproj.GenerateResource.cache
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\MaterialDesignColors.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\MaterialDesignColors.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\obj\Debug\App.baml
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\obj\Debug\Destraba Satelites Material Design.csproj.CopyComplete
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\Controladores.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\Entidades.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\Modelo.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\EntityFramework.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\Controladores.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\Controladores.dll.config
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\Entidades.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\Entidades.dll.config
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\Modelo.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\Modelo.dll.config
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\EntityFramework.xml
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\Destraba Satelites.exe.config
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\Destraba Satelites.exe
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\bin\Debug\Destraba Satelites.pdb
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\obj\Debug\Destraba Satelites_MarkupCompile.cache
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\obj\Debug\Destraba Satelites_MarkupCompile.lref
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\obj\Debug\Destraba Satelites.g.resources
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\obj\Debug\Destraba_Satelites.Properties.Resources.resources
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\obj\Debug\Destraba Satelites.exe
+C:\Users\a-villarealn\Documents\GUAJE VILLA\Progra\Proyectos\DestrabaSatelites\Destraba Satelites Material Design\obj\Debug\Destraba Satelites.pdb

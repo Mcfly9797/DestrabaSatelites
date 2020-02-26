@@ -10,7 +10,6 @@ namespace Entidades
 {
     public class Log
     {
-
         private string Path = "";
 
         public Log(string Path)
@@ -18,14 +17,14 @@ namespace Entidades
             this.Path = Path;
         }
 
-        public void Add(string accion)
+        public void Add(string log)
         {
             CreateDirectory();
             string nombre = GetNameFile();
             string cadena = "";
 
            
-            cadena += DateTime.Now + " - " + accion +" "+ System.Environment.MachineName  + Environment.NewLine;
+            cadena += DateTime.Now + System.Environment.MachineName +" - " + log +" " + Environment.NewLine;
             
             StreamWriter sw = new StreamWriter(Path + "/" + nombre, true);
             sw.Write(cadena);

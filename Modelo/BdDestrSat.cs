@@ -11,59 +11,98 @@ namespace Modelo
 {
     public class BdDestrSat
     {
-
-
         //Sat1
-        public List<PrensaLog> SP_DestrabaSat1(List<PrensaLog> listadatos)
+        public List<PrensaLog> SP_DestrabaSat1(List<PrensaLog> listadatos, ref bool flagError)
         {
-            
-            using (CCM1Entities db = new CCM1Entities())
+            try
             {
-                var lst = db.Destraba_CCM();
-                listadatos = ConstructorListaPrensa(lst);
+                using (CCM1Entities db = new CCM1Entities())
+                {
+                    var lst = db.Destraba_CCM();
+                    listadatos = ConstructorListaPrensa(lst);
+                }
+                return listadatos;
             }
-            return listadatos;
+            catch (Exception ex)
+            {
+                Log oLog = new Log(@".\");
+                oLog.Add("Falla al ejecutar el stored procedure satelite 1 ");
+                oLog.Add(ex.ToString() + Environment.NewLine);
+                //throw;
+                flagError = true;
+                return listadatos;
+            }
         }
 
         //Sat2
-        public List<PrensaLog> SP_DestrabaSat2(List<PrensaLog> listadatos)
+        public List<PrensaLog> SP_DestrabaSat2(List<PrensaLog> listadatos, ref bool flagError)
         {
-           
-            using (CCM2Entities db = new CCM2Entities())
+            try
             {
-                var lst = db.Destraba_CCM();
-                listadatos = ConstructorListaPrensa(lst);
+                using (CCM2Entities db = new CCM2Entities())
+                {
+                    var lst = db.Destraba_CCM();
+                    listadatos = ConstructorListaPrensa(lst);
+                }
+                return listadatos;
             }
-            return listadatos;
+            catch (Exception ex)
+            {
+                Log oLog = new Log(@".\");
+                oLog.Add("Falla al ejecutar el stored procedure satelite 1 ");
+                oLog.Add(ex.ToString() + Environment.NewLine);
+                //throw;
+                flagError = true;
+                return listadatos;
+            }
         }
 
-
-
-
-
         //Sat3
-        public List<PrensaLog> SP_DestrabaSat3(List<PrensaLog> listadatos)
+        public List<PrensaLog> SP_DestrabaSat3(List<PrensaLog> listadatos, ref bool flagError)
         {
-            
-            using (CCM3Entities db = new CCM3Entities())
+            try
             {
-                var lst = db.Destraba_CCM();
-                listadatos = ConstructorListaPrensa(lst);
+                using (CCM3Entities db = new CCM3Entities())
+                {
+                    var lst = db.Destraba_CCM();
+                    listadatos = ConstructorListaPrensa(lst);
+                }
+                return listadatos;
             }
-            return listadatos;
+            catch (Exception ex)
+            {
+                Log oLog = new Log(@".\");
+                oLog.Add("Falla al ejecutar el stored procedure satelite 1 ");
+                oLog.Add(ex.ToString() + Environment.NewLine);
+                //throw;
+                flagError = true;
+                return listadatos;
+            }
         }
 
         //Sat4
-        public List<PrensaLog> SP_DestrabaSat4(List<PrensaLog> listadatos)
+        public List<PrensaLog> SP_DestrabaSat4(List<PrensaLog> listadatos, ref bool flagError)
         {
-            
-            using (CCM4Entities db = new CCM4Entities())
+            try
             {
-                var lst = db.Destraba_CCM();
-                listadatos = ConstructorListaPrensa(lst);
+                using (CCM4Entities db = new CCM4Entities())
+                {
+                    var lst = db.Destraba_CCM();
+                    listadatos = ConstructorListaPrensa(lst);
+                }
+                return listadatos;
             }
-            return listadatos;
+            catch (Exception ex)
+            {
+                Log oLog = new Log(@".\");
+                oLog.Add("Falla al ejecutar el stored procedure satelite 1 ");
+                oLog.Add(ex.ToString() + Environment.NewLine);
+                //throw;
+                flagError = true;
+                return listadatos;
+            }
         }
+
         public List<PrensaLog> ConstructorListaPrensa(ObjectResult<Destraba_CCM_Result> lst)
         {
             List<PrensaLog> listadatos = new List<PrensaLog>();
@@ -94,9 +133,7 @@ namespace Modelo
                     Attempts = elementBd.attempts,
                     Insert_date = elementBd.insert_date
                 };
-
                 listadatos.Add(elemento);
-
             }
                 return listadatos;
         }

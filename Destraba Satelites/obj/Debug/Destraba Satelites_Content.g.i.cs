@@ -8,13 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("model/ccm1model.context.tt")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("model/ccm1model.tt")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("model/ccm2model.context.tt")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("model/ccm2model.tt")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("model/ccm3model.context.tt")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("model/ccm3model.tt")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("model/ccm4model.context.tt")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("model/ccm4model.tt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("logobridgestone%20negro.png")]
 
 

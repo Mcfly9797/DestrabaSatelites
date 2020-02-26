@@ -130,6 +130,12 @@
       <Name>Modelo</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="B bridge.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="logoBridgestone negro.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

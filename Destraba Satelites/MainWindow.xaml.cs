@@ -27,63 +27,83 @@ namespace Destraba_Satelites
             InitializeComponent();
         }
 
+        bool flagError = false;
         private void Button_Click_Sat1(object sender, RoutedEventArgs e)
         {
-            List<PrensaLog> log = new DestrabarPrensa().DestraSatTraerLogs(1);
-            new DestrabarPrensa().EscribirLog(log, 1);
-            if ((log.Count) > 0)
+            List<PrensaLog> log = new DestrabarPrensa().DestraSatTraerLogs(1,ref flagError);
+            if ((log.Count) > 0 && flagError == false)
             {
                 MessageBox.Show("Satelite 1 destrabado!", "Destraba satelites");
                 grdDatos.ItemsSource = log;
             }
-            else
+            else if (flagError == false)
             {
                 MessageBox.Show("El satelite no estaba trabado!", "Destraba satelites");
             }
+            else if (flagError == true)
+            {
+                MessageBox.Show("Hubo un error al destrabarel satelite, observar log en la ruta de ejecucion del programa", "Destraba satelites");
+                flagError = false;
+            }
         }
+
 
         private void Button_Click_Sat2(object sender, RoutedEventArgs e)
         {
-            List<PrensaLog> log = new DestrabarPrensa().DestraSatTraerLogs(2);
-            new DestrabarPrensa().EscribirLog(log, 2);
-            if ((log.Count) > 0)
+            List<PrensaLog> log = new DestrabarPrensa().DestraSatTraerLogs(2, ref flagError);
+            if ((log.Count) > 0 && flagError == false)
             {
                 MessageBox.Show("Satelite 2 destrabado!", "Destraba satelites");
                 grdDatos.ItemsSource = log;
             }
-            else
+            else if (flagError == false)
             {
                 MessageBox.Show("El satelite no estaba trabado!", "Destraba satelites");
             }
+            else if (flagError == true)
+            {
+                MessageBox.Show("Hubo un error al destrabarel satelite, observar log en la ruta de ejecucion del programa", "Destraba satelites");
+                flagError = false;
+            }
         }
+
 
         private void Button_Click_Sat3(object sender, RoutedEventArgs e)
         {
-            List<PrensaLog> log = new DestrabarPrensa().DestraSatTraerLogs(3);
-            new DestrabarPrensa().EscribirLog(log, 3);
-            if ((log.Count) > 0)
+            List<PrensaLog> log = new DestrabarPrensa().DestraSatTraerLogs(3, ref flagError);
+            if ((log.Count) > 0 && flagError == false)
             {
                 MessageBox.Show("Satelite 3 destrabado!", "Destraba satelites");
                 grdDatos.ItemsSource = log;
             }
-            else
+            else if (flagError == false)
             {
                 MessageBox.Show("El satelite no estaba trabado!", "Destraba satelites");
             }
+            else if (flagError == true)
+            {
+                MessageBox.Show("Hubo un error al destrabarel satelite, observar log en la ruta de ejecucion del programa", "Destraba satelites");
+                flagError = false;
+            }
         }
+
 
         private void Button_Click_Sat4(object sender, RoutedEventArgs e)
         {
-            List<PrensaLog> log = new DestrabarPrensa().DestraSatTraerLogs(4);
-            new DestrabarPrensa().EscribirLog(log, 4);
-            if ((log.Count) > 0)
+            List<PrensaLog> log = new DestrabarPrensa().DestraSatTraerLogs(4, ref flagError);
+            if ((log.Count) > 0 && flagError == false)
             {
                 MessageBox.Show("Satelite 4 destrabado!", "Destraba satelites");
                 grdDatos.ItemsSource = log;
             }
-            else
+            else if (flagError == false)
             {
                 MessageBox.Show("El satelite no estaba trabado!", "Destraba satelites");
+            }
+            else if (flagError == true)
+            {
+                MessageBox.Show("Hubo un error al destrabarel satelite, observar log en la ruta de ejecucion del programa", "Destraba satelites");
+                flagError = false;
             }
         }
     }
